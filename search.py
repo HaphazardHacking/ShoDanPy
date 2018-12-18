@@ -1,7 +1,7 @@
 import shodan
 import json
 
-api_key = 'zFsD5kmLPIzJxpg0B2dXx1bfQ1cy9Je1'
+api_key = ''
 
 api = shodan.Shodan(api_key)
 
